@@ -10,5 +10,5 @@ def function(a1,b1,c1):
 def function1(a1,b1,c1,d1):
     print(a1+b1+c1+d1);
 
-function(a1,b1,c1);
-function1(a1,b1,c1,d1);
+function(a,b,c);
+function1(a,b,c,d);
